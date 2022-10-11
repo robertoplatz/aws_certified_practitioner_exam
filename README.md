@@ -1,2 +1,2 @@
-# aws_certified_practitioner_exam
-AWS Certified Practitioner Exam
+# AWS Certified Practitioner Exam
+
