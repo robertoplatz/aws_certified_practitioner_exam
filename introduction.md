@@ -1,3 +1,5 @@
+# AWS Certified Practitioner Exam
+
 ## Introduction
 
 * Passing the AWS Certified Cloud Practitioner exam won’t require you to know how
