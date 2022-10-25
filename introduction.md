@@ -2,18 +2,12 @@
 
 ## Introduction
 
-* Passing the AWS Certified Cloud Practitioner exam won’t require you to know how
-to provision and launch complex, multitier cloud deployments. 
+* Passing the AWS Certified Cloud Practitioner exam won’t require you to know how to provision and launch complex, multitier cloud deployments. 
 * But you will need to be broadly familiar with the workings of a wide range of AWS services.
-* Even though the AWS Certified Cloud Practitioner Study Guide CLF-C01 Exam skews
-  a bit more to the theoretical side than other AWS certifications, there’s still a great deal
-  of value in working through each chapter’s hands-on exercises.
-* Each chapter includes review questions to thoroughly test your understanding of the
-  services you’ve seen. We’ve designed the questions to help you realistically gauge your
-  understanding and readiness for the exam.
-* The book also comes with a self-assessment exam at the beginning with 25 questions,
-  two practice exams with a total of 100 questions, and flashcards to help you learn and
-  retain key facts needed to prepare for the exam.
+* Even though the AWS Certified Cloud Practitioner Study Guide CLF-C01 Exam skews a bit more to the theoretical side than other AWS certifications, there’s still a great deal of value in working through each chapter’s hands-on exercises.
+* Each chapter includes review questions to thoroughly test your understanding of the services you’ve seen. We’ve designed the questions to help you realistically gauge your understanding and readiness for the exam.
+* The book also comes with a self-assessment exam at the beginning with 25 questions, two practice exams with a total of 100 questions, and flashcards to help you learn and   retain key facts needed to prepare for the exam.
+
 
 
 ### What does this book cover?
