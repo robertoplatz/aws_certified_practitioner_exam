@@ -12,7 +12,7 @@
 *  E. Software budget
 *  F. Cost budget
 
-**Answer** B, C, F
+**Answer** B, D, F
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -37,7 +37,7 @@
 *  C. Amazon Lex
 *  D. Amazon Comprehend
 
-**Answer** D
+**Answer** A
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -62,7 +62,7 @@
 *  C. AWS Transit Gateway
 *  D. VPC Peering
 
-**Answer** D
+**Answer** C
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -87,7 +87,7 @@
 *  C. Effect, Action
 *  D. Sid, Principal
 
-**Answer** B
+**Answer** C
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -239,7 +239,7 @@
 *  C. Use AWS Cost Explorer to create separate invoices for development and production environments
 *  D. Use AWS Organizations to create separate invoices for development and production environments
 
-**Answer** A
+**Answer** B
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -313,7 +313,7 @@
 *  C. S3 One Zone-IA
 *  D. S3 Intelligent-Tiering
 
-**Answer** B
+**Answer** C
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -410,7 +410,7 @@
 *  D. Customer Gateway
 *  E. NAT Gateway
 
-**Answer** C, E
+**Answer** B, D
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -436,7 +436,7 @@
 *  C. Enterprise
 *  D. Developer
 
-**Answer** C
+**Answer** D
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -485,7 +485,7 @@
 *  C. Failover routing policy
 *  D. Simple routing policy
 
-**Answer** D
+**Answer** C
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -534,7 +534,7 @@
 *  C. Use AWS Lambda to send log data from EC2 instance as well as on-premises servers to CloudWatch Logs
 *  D. Use CloudTrail for the EC2 instance and CloudWatch Logs for the on-premises servers
 
-**Answer** C
+**Answer** B
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -561,7 +561,7 @@
 *  C. 50
 *  D. 90
 
-**Answer** C
+**Answer** A
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -734,7 +734,7 @@
 *  C. You should use an AMI from the same region, as it improves the performance of the EC2 instance
 *  D. You can use an AMI from a different region, but it degrades the performance of the EC2 instance
 
-**Answer** A
+**Answer** B
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -806,7 +806,7 @@
 *  C. In the AWS Region where the AWS resource is provisioned
 *  D. US West (N. California) - us-west-1
 
-**Answer** C
+**Answer** A
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -881,7 +881,7 @@
 *  D. Amazon S3 Glacier
 *  E. Amazon EFS drives
 
-**Answer** C, E
+**Answer** C, D
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -906,7 +906,7 @@
 *  D. AWS Cost and Usage Reports
 *  E. AWS Budgets
 
-**Answer** C, D
+**Answer** A, B
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1085,7 +1085,7 @@
 *  D. With AWS Backup, you pay only for the amount of EFS backup storage you use in a month, you need not pay for restoring this data
 *  E. You will pay a fee each time you read from or write data stored on the EFS - Infrequent Access storage class
 
-**Answer** A, C
+**Answer** C, E
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1136,7 +1136,7 @@
 *  C. Network Stress Testing
 *  D. Amazon Inspector
 
-**Answer** D
+**Answer** A
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1184,7 +1184,7 @@
 *  D. DynamoDB
 *  E. EBS
 
-**Answer** A, E
+**Answer** A, D
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1287,7 +1287,7 @@
 *  C. Configure networking infrastructure for the lambda functions
 *  D. Patch underlying OS for the lambda function infrastructure
 
-**Answer** C
+**Answer** A
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1393,7 +1393,7 @@
 *  D. Only user-defined tags need to be activated before they can appear in Cost Explorer or on a cost allocation report
 *  E. You must activate both AWS generated tags and user-defined tags separately before they can appear in Cost Explorer or on a cost allocation report
 
-**Answer** C, E
+**Answer** B, E
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1420,7 +1420,7 @@
 *  D. Documentation
 *  E. Service Limits
 
-**Answer** A, E
+**Answer** C, E
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1555,7 +1555,7 @@
 *  D. A NACL is stateful, that is, it automatically allows the return traffic
 *  E. A Security Group is stateful, that is, it automatically allows the return traffic
 
-**Answer** A, B
+**Answer** A, E
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1584,7 +1584,7 @@
 *  C. EC2 instances can access files on an EFS file system only in one Availability Zone
 *  D. EC2 instances can access files on an EFS file system across many Availability Zones and VPCs but not across Regions
 
-**Answer** B
+**Answer** A
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1677,3 +1677,5 @@
  <p>Reference:</p>
  <p><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html">https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html</a></p>
 </div>
+
+**Question 66**

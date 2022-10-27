@@ -2,6 +2,7 @@
 
 ## Exam 02
 
+**Question 1**
 
 1. Which AWS compute service provides the EASIEST way to access resizable compute capacity in the cloud with support for per-second billing and access to the underlying OS?
 *  A. Amazon Lightsail
@@ -62,7 +63,7 @@
 *  C. Amazon EC2 Instance Connect
 *  D. AWS Systems Manager Session Manager
 
-**Answer** B
+**Answer** D
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -135,7 +136,7 @@
 *  C. Amazon Elastic Block Storage (Amazon EBS)
 *  D. Amazon FSx for Lustre
 
-**Answer** B
+**Answer** A
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -218,7 +219,7 @@
 *  D. EC2 Instance
 *  E. Step Function
 
-**Answer** B
+**Answer** B, C
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -243,7 +244,7 @@
 *  D. AWS WAF
 *  E. Route 53
 
-**Answer** D
+**Answer** D, E
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -321,7 +322,7 @@
 *  D. Reliability
 *  E. Scalability
 
-**Answer** D, E
+**Answer** C, D
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -528,7 +529,7 @@
 *  C. Spot Instances
 *  D. On-demand Instances
 
-**Answer** A
+**Answer** D
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -551,7 +552,7 @@
 *  C. AWS CloudHSM
 *  D. Amazon Inspector
 
-**Answer** B
+**Answer** D
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -575,7 +576,7 @@
 *  C. Business
 *  D. Business & Enterprise
 
-**Answer** D
+**Answer** A
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -603,7 +604,7 @@
 *  C. AWS CloudFormation
 *  D. AWS Config
 
-**Answer** B
+**Answer** D
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -702,7 +703,7 @@
 *  C. AWS Direct Connect
 *  D. AWS Edge Locations
 
-**Answer** D
+**Answer** B
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -753,7 +754,7 @@
 *  D. AWS Service Quotas
 *  E. AWS Trusted Advisor
 
-**Answer** A, D
+**Answer** D, E
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -963,7 +964,7 @@
 *  C. AWS Elastic Beanstalk
 *  D. Amazon EC2
 
-**Answer** D
+**Answer** C
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -989,7 +990,7 @@
 *  E. Amazon Inspector
 *  F. Amazon CloudFront with Route 53
 
-**Answer** A, C, D
+**Answer** A, C, F
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1040,7 +1041,7 @@
 *  C. Global Accelerator
 *  D. Elastic Load Balancer
 
-**Answer** A
+**Answer** C
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1141,7 +1142,7 @@
 *  C. AWS Trusted Advisor
 *  D. AWS Secrets Manager
 
-**Answer** A
+**Answer** B
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1265,7 +1266,7 @@
 *  C. Amazon CloudWatch
 *  D. AWS Shield
 
-**Answer** A
+**Answer** B
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1336,7 +1337,7 @@
 *  D. Amazon Elastic File System (Amazon EFS), AWS Lambda functions
 *  E. Amazon EC2 instances, Amazon Elastic File System (Amazon EFS)
 
-**Answer** D
+**Answer** B, C
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1442,7 +1443,7 @@
 *  C. AWS Batch
 *  D. AWS Step Function
 
-**Answer** C
+**Answer** B
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1497,7 +1498,7 @@
 *  C. Object Gateway, File Gateway and Block Gateway
 *  D. Tape Gateway, File Gateway and Block Gateway
 
-**Answer** D
+**Answer** B
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
@@ -1523,7 +1524,7 @@
 *  C. IAM Group
 *  D. IAM User
 
-**Answer** B
+**Answer** D
 
 **Explanation**
 <div data-purpose="safely-set-inner-html:rich-text-viewer:html" id="question-explanation" class="rt-scaffolding">
