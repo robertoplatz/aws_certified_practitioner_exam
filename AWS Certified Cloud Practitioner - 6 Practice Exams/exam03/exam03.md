@@ -1677,5 +1677,3 @@
  <p>Reference:</p>
  <p><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html">https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html</a></p>
 </div>
-
-**Question 66**
