@@ -1,6 +1,6 @@
 # AWS Certified Cloud Practitioner Exam
 
-## AWS Certified Cloud Practitioner - Whizlabs - Exam 01
+## Whizlabs - Exam 01
 
 **Question 1**
 
