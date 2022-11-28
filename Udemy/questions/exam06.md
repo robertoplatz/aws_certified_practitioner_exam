@@ -1,4 +1,4 @@
-# AWS Certified Practitioner Exam
+# AWS Certified Cloud Practitioner Exam
 
 ## Exam 06
 
