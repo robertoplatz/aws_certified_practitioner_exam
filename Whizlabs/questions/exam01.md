@@ -29,7 +29,7 @@
 
 **Question 2**
 
-2. A file-sharing service uses Amazon S3 to store files uploaded by users. Files are accessed with random frequency.Popular ones are downloaded every day whilst others not so often and some rarely. What is the most cost-effective Amazon S3 object storage class to implement?
+2. A file-sharing service uses Amazon S3 to store files uploaded by users. Files are accessed with random frequency. Popular ones are downloaded every day whilst others not so often and some rarely. What is the most cost-effective Amazon S3 object storage class to implement?
 *  A. Amazon S3 Standard
 *  B. Amazon S3 Glacier
 *  C. Amazon S3 One Zone-Infrequently Accessed
@@ -86,7 +86,7 @@
 
 **Question 4**
 
-4. An organization utilizes a software suitethat consists of a multitude of underlying microservices hosted on the cloud. The application is frequently giving runtime errors. Which service will help in the troubleshooting process?
+4. An organization utilizes a software suite that consists of a multitude of underlying microservices hosted on the cloud. The application is frequently giving runtime errors. Which service will help in the troubleshooting process?
 *  A. AWS CloudTrail
 *  B. AWS CloudWatch
 *  C. AWS X-Ray
@@ -163,7 +163,7 @@
 
 **Question 7**
 
-7. Which of the following is an optional Security layer attached to a subnet within a VPC for controlling traffic in &amp; out of the VPC?
+7. Which of the following is an optional Security layer attached to a subnet within a VPC for controlling traffic in and out of the VPC?
 *  A. VPC Flow Logs
 *  B. Web Application Firewall
 *  C. Security Group
@@ -219,7 +219,7 @@
 
 **Question 9**
 
-9. What is the AWS feature that enables fast, easyand secure transfers of files over long distances between your client and your Amazon S3 bucket?
+9. What is the AWS feature that enables fast, easy and secure transfers of files over long distances between your client and your Amazon S3 bucket?
 *  A. File Transfer
 *  B. HTTP Transfer
 *  C. Amazon S3 Transfer Acceleration
@@ -244,7 +244,7 @@
 
 **Question 10**
 
-10. Which of the following services can be used to optimize performance for global users totransfer large-sized data objects to a centralizedAmazon S3 bucket in us-west-1 region?
+10. Which of the following services can be used to optimize performance for global users to transfer large-sized data objects to a centralizedAmazon S3 bucket in us-west-1 region?
 *  A. Enable S3 Transfer Acceleration on Amazon S3 bucket.
 *  B. Use Amazon CloudFront Put/Post commands
 *  C. Use Multipart upload
@@ -402,7 +402,7 @@
 
 **Question 15**
 
-15. There is an external audit being carried out on your company. The auditor needs to have a log of 'who made the requests' to the AWS resources fromthe company’s account. Which of the following services can assist in providing these details?
+15. There is an external audit being carried out on your company. The auditor needs to have a log of 'who made the requests' to the AWS resources from the company’s account. Which of the following services can assist in providing these details?
 *  A. Amazon CloudWatch
 *  B. AWS CloudTrail
 *  C. Amazon&nbsp;EC2
@@ -455,7 +455,7 @@
 
 **Question 17**
 
-17. Which of the following is the responsibility of the customer to ensurethe availability and backup of the EBS volumes?
+17. Which of the following is the responsibility of the customer to ensure the availability and backup of the EBS volumes?
 *  A. Delete&nbsp;the data and create a new EBS volume.
 *  B. Create&nbsp;EBS snapshots.
 *  C. Attach&nbsp;new volumes to EC2 Instances.
@@ -558,8 +558,8 @@
 **Question 21**
 
 21. Your design team is planning to design an application that will be hosted on the AWS Cloud. One of their main non-functional requirements is given below:
-* Reduce inter-dependencies so failures do not impact other components.
-  Which of the following concepts does this requirement relate to?<!--[if !supportLists]-->
+    - Reduce inter-dependencies so failures do not impact other components.
+    - Which of the following concepts does this requirement relate to?
 *  A. Integration
 *  B. Decoupling
 *  C. Aggregation
@@ -701,9 +701,9 @@
 **Question 26**
 
 26. Your company is planning to pay for an AWS Support plan. They have the following requirements as far as the support plan goes:
-* 24x7 access to Cloud Support Engineers via email, chat &amp; phone.
-* Response time of less than 15 minutes for any Mission-critical system faults.
-  Which of the following plans will suffice to keep in mind the above requirement?
+    - 24x7 access to Cloud Support Engineers via email, chat &amp; phone.
+    - Response time of less than 15 minutes for any Mission-critical system faults.
+      Which of the following plans will suffice to keep in mind the above requirement?
 *  A. Basic
 *  B. Developer
 *  C. Business
@@ -751,7 +751,7 @@
 
 **Question 28**
 
-28. On which of the following resources does Amazon Inspector performnetwork accessibility checks?
+28. On which of the following resources does Amazon Inspector perform network accessibility checks?
 *  A. Amazon CloudFront
 *  B. Amazon VPN
 *  C. Amazon EC2 instance
@@ -876,7 +876,7 @@
 
 **Question 33**
 
-33. Which of the following are best practiceswhen designing cloud-based systems?(Select TWO)
+33. Which of the following are best practices when designing cloud-based systems?(Select TWO)
 *  A. Build Tightly-coupled components.
 *  B. Build loosely-coupled components.
 *  C. Assume everything will fail.
@@ -1089,7 +1089,7 @@
 *  A. AWS Cost Explorer
 *  B. AWS Bills
 *  C. AWS Reports
-*  D. Cost &amp; Usage Reports
+*  D. Cost & Usage Reports
 
 **Answer** A
 
@@ -1228,7 +1228,7 @@
 
 **Question 46**
 
-46. Project team enhancing the security features of a banking application, requires implementing a threat detection service that continuously monitors malicious activitiesand unauthorized behaviors to protect AWS accounts, workloads, and data stored in Amazon S3. Which AWS services should the project team select?
+46. Project team enhancing the security features of a banking application, requires implementing a threat detection service that continuously monitors malicious activities and unauthorized behaviors to protect AWS accounts, workloads, and data stored in Amazon S3. Which AWS services should the project team select?
 *  A. AWS Shield
 *  B. AWS Firewall Manager
 *  C. Amazon GuardDuty
@@ -1339,10 +1339,10 @@
 
 **Question 50**
 
-50. Your Security Team has some security concerns about the application data stored on S3.The teamrequires you to introduce two improvements: (i) add “encryption at rest” and (ii) give them the possibility to monitor who has accessed the data and when the data have been accessed.Which of the followingAWS solution would you adopt to satisfy the requirement?
-*  A. AWS Certificate Manager&nbsp;with CloudTrail.
-*  B. Server-Side Encryption managed by S3 (SSE-S3)&nbsp;with CloudTrail.
-*  C. Server-Side Encryption managed by customer (SSE-C)&nbsp;with CloudTrail.
+50. Your Security Team has some security concerns about the application data stored on S3.The team requires you to introduce two improvements: (i) add “encryption at rest” and (ii) give them the possibility to monitor who has accessed the data and when the data have been accessed.Which of the followingAWS solution would you adopt to satisfy the requirement?
+*  A. AWS Certificate Manager with CloudTrail.
+*  B. Server-Side Encryption managed by S3 (SSE-S3) CloudTrail.
+*  C. Server-Side Encryption managed by customer (SSE-C) with CloudTrail.
 *  D. Server-Side Encryption managed by KMS (SSE-KMS) with CloudTrail.
 
 **Answer** D
@@ -1474,7 +1474,7 @@
 
 **Question 55**
 
-55. Which of the following is a template that contains the software configuration tolaunch an ec2 instance?
+55. Which of the following is a template that contains the software configuration to launch an ec2 instance?
 *  A. EBS Volumes
 *  B. AMI
 *  C. EC2 Snapshot
@@ -1500,7 +1500,7 @@
 
 **Question 56**
 
-56. Security and Compliance is ashared responsibilitybetween AWS and the customer. Which amongst the below-listed options are AWS responsibilities?(Select TWO.)
+56. Security and Compliance is a shared responsibility between AWS and the customer. Which amongst the below-listed options are AWS responsibilities?(Select TWO.)
 *  A. Perform all the necessary security configuration and management tasks for Amazon Elastic Compute Cloud (Amazon EC2).
 *  B. Patch management of the guest OS and applications
 *  C. Security of the data in the AWS cloud
@@ -1646,7 +1646,7 @@
 
 **Question 61**
 
-61. Which AWS service offering uses machine learning and graph theory capability on automatically collected log data to help youconduct faster and efficient security investigations?
+61. Which AWS service offering uses machine learning and graph theory capability on automatically collected log data to help you conduct faster and efficient security investigations?
 *  A. Amazon Macie
 *  B. Amazon Detective
 *  C. AWS Artifact
